@@ -4,7 +4,7 @@ Contributors: mercime
 Donate link: http://www.redcross.org/
 Tags: bbpress, widget, theme development 
 License: GPLv2 or later
-Requires at least: WP 4.0, bbPress 2.5.4
+Requires at least: WP 4.1, bbPress 2.5.4
 Tested up to: WP/bbPress trunk
 Stable tag: trunk
 
